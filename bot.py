@@ -3,9 +3,6 @@ from time import sleep
 from selenium.webdriver.chrome.options import Options
 
 
-
-
-
 class Bot():
     def __init__(self):
         options = Options()
